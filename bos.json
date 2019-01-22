@@ -1,0 +1,72 @@
+
+{
+	"producer_account_name": "cryptolions1",
+	"producer_public_key": "EOS8mCAGdgzoAZGE6xdQm2zLWy7zJe5Jpms4CLion2LccuJB1cGph",
+	"org": {
+		"candidate_name": "CryptoLions",
+		"website": "https://CryptoLions.io",
+		"code_of_conduct": "https://steemit.com/eos/@cryptolions/crypto-lions-policy-positions-and-code-of-conduct",
+		"email": "roar@cryptolions.io",
+		"ownership_disclosure": "https://steemit.com/eos/@cryptolions/cryptolions-cap-table-disclosure",
+		"branding": {
+			"logo_256": "https://imgs.cryptolions.io/logo_256.png",
+			"logo_1024": "https://imgs.cryptolions.io/logo_1024.png",
+			"logo_svg": "https://imgs.cryptolions.io/logo.svg"
+		},
+		"location": {
+			"name": "Ukraine",
+			"country": "UA",
+			"latitude": 49.8397,
+			"longitude": 24.0297
+		},
+		"social": {
+			"steemit": "cryptolions",
+			"twitter": "EOS_CryptoLions",
+			"youtube": "UCB7F-KO0mmZ1yVBCq0_1gtA",
+			"facebook": "",
+			"github": "CryptoLions",
+			"reddit": "",
+			"keybase": "cryptolions",
+			"telegram": "CryptoLions_io",
+			"wechat": ""
+		}
+	},
+	"nodes": [
+		{
+			"location": {
+				"name": "Germany-Finland",
+				"country": "DE",
+				"latitude": 51.2993,
+				"longitude": 9.491
+			},
+			"node_type": "full",
+			"api_endpoint": "http://bos.cryptolions.io:1888",
+			"ssl_endpoint": ""
+		},
+		{
+			"location": {
+				"name": "Germany-Finland",
+				"country": "DE",
+				"latitude": 51.2993,
+				"longitude": 9.491
+			},
+			"node_type": "seed",
+			"p2p_endpoint": "bos.cryptolions.io:1987",
+			"bnet_endpoint": ""
+		},
+		{
+			"location": {
+				"name": "Germany",
+				"country": "DE",
+				"latitude": 51.2993,
+				"longitude": 9.491
+			},
+			"node_type": "producer",
+			"p2p_endpoint": "",
+			"api_endpoint": "",
+			"bnet_endpoint": "",
+			"ssl_endpoint": ""
+		}
+		
+	]
+}
