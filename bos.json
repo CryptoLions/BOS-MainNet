@@ -4,7 +4,7 @@
 	"producer_public_key": "EOS8mCAGdgzoAZGE6xdQm2zLWy7zJe5Jpms4CLion2LccuJB1cGph",
 	"org": {
 		"candidate_name": "CryptoLions",
-		"website": "https://CryptoLions.io",
+		"website": "https://cryptolions.io",
 		"code_of_conduct": "https://steemit.com/eos/@cryptolions/crypto-lions-policy-positions-and-code-of-conduct",
 		"email": "roar@cryptolions.io",
 		"ownership_disclosure": "https://steemit.com/eos/@cryptolions/cryptolions-cap-table-disclosure",
@@ -40,7 +40,7 @@
 				"longitude": 9.491
 			},
 			"node_type": "full",
-			"api_endpoint": "http://bos.cryptolions.io:1888",
+			"api_endpoint": "http://bos.cryptolions.io:80",
 			"ssl_endpoint": "https://bos.cryptolions.io:443"
 		},
 		{
