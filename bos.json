@@ -41,7 +41,7 @@
 			},
 			"node_type": "full",
 			"api_endpoint": "http://bos.cryptolions.io:1888",
-			"ssl_endpoint": ""
+			"ssl_endpoint": "https://bos.cryptolions.io:443"
 		},
 		{
 			"location": {
