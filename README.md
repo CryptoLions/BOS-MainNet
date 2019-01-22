@@ -1,0 +1,2 @@
+# BOS-MainNet
+BOS chain
